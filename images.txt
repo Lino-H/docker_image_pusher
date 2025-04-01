@@ -30,5 +30,6 @@
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #langgenius/dify-plugin-daemon:0.0.1-local
-traefik:latest
-docker.n8n.io/n8nio/n8n:latest
+#traefik:latest
+#docker.n8n.io/n8nio/n8n:latest
+postgres:16
